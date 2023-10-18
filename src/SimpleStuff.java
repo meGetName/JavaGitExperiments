@@ -6,6 +6,7 @@ public class SimpleStuff {
 		 int a = 3;
 		 int b = 7;
 		 System.out.println(Integer.toString(a+b));
+		 System.out.println("Ein neues Committ!");
 	}
 
 }
